@@ -1,10 +1,10 @@
 {
-"Title": "بالاخره تلاش و زحمات ما نتیجه داد !",
-"Description": "- بعد از کلی سختی تونستیم سرورهایی بخریم که روش پروکسی اینستاگرام و واتس‌اپ نصب کنیم ؛ یه سری از بهتریناشونو براتون قرار دادیم 🙏🏾🤍",
-"Link": "tg://join?invite=76PTRYBrJxtlMzUy",
-"ColorWave": "#47F6FB",
-"Color": "#47F6FB",
-"ColorWaveTwo": "#12C7F3",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://join?invite=HChHDrwhCK9iMWE8",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "8741",
-"ShowTime": "3",
-"Button": " دریافت پروکسی مخصوص ",
-"ButtonCancell": "  ",
-"Closure": "true",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
+"Closure": "false",
 "Show": "on"
 }
